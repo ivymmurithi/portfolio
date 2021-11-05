@@ -1,4 +1,22 @@
 img {
   max-width: 100%;
   height: auto;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+}
+
+.container {
+  position: absolute;
+  margin: 20%;
+  width: auto;
+}
+
+.navbar-nav {
+  float: left;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  overflow: hidden;
 }
