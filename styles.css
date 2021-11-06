@@ -1,3 +1,9 @@
+* {
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+
 img {
   max-width: 100%;
   height: auto;
@@ -7,18 +13,15 @@ img {
 }
 
 .container {
-  position: absolute;
   margin: 20%;
   width: auto;
 }
 
 .navlink li a{
-  float: left;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
-  overflow: hidden;
 }
 
 .navbar-nav {
@@ -26,3 +29,20 @@ img {
   position: absolute;
   left: 40%;
 }
+
+.text-container {
+  text-align: center;
+  width: 100%;
+  top: 50%;
+  bottom: 50%;
+  position: absolute;
+  color: white;
+}
+
+.content h1 h2 h5 h6 {
+  position: absolute;
+  text-align: center;
+  justify-content: center;
+  font-size: 6rem;
+}
+
