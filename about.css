@@ -29,3 +29,17 @@
     position: absolute;
     left: 40%;
   }
+
+  img {
+    position: absolute;
+  }
+
+.ivy-photo {
+  width: 30%;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+  top: 25%;
+  bottom: 30%;
+  left: 60%;
+}
