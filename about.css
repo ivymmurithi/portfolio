@@ -47,3 +47,19 @@
 .about-me-container {
   text-align: center;
 }
+
+.about-me-container {
+display: flex;
+justify-content: space-between;
+}
+
+.about-me-text {
+  position: absolute;
+  text-align: center;
+  justify-content: center;
+  top: 30%;
+  left: 10%;
+  right: 50%;
+  color: white;
+  font-size: 1.5rem;
+}
