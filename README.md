@@ -1,5 +1,5 @@
 # Project
-This project my portfolio that takes the form of a website.   In it contains most things about me, my previous first project project, interests, hobbies, skills and why i chose to do a programming class.
+This project is my portfolio that takes the form of a website.   In it contains most things about me, my previous first project project, interests, hobbies, skills and why i chose to do a programming class.
 
 ## Author Name
 | Ivy Murithi | ivymurithi@gmail.com |
