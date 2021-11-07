@@ -1,0 +1,31 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+  }
+  
+  .container {
+    margin: 20%;
+    width: auto;
+  }
+  
+  .navlink li a{
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .navbar-nav {
+    float: none;
+    position: absolute;
+    left: 40%;
+  }
