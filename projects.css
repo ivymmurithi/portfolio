@@ -29,3 +29,34 @@
     position: absolute;
     left: 40%;
   }
+
+  img {
+    position: absolute;
+  }
+
+.project-photo {
+  width: 70%;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+  top:30%;
+  bottom: 30%;
+  left: 18%;
+}
+
+.project-container {
+  display: flex;
+}
+
+.project-text {
+  position: absolute;
+  color: white;
+  text-align: center;
+  font-size: 1.5rem;
+  padding: 14px 16px;
+  top: 10%;
+}
+
+.project-link {
+  position: absolute;
+}
