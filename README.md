@@ -1,6 +1,12 @@
 # Project
 This project is my portfolio that takes the form of a website.   In it contains most things about me, my previous first project project, interests, hobbies, skills and why i chose to do a programming class.
 
+![Homepage Image](./images/home-page.png)
+
+![About us image](./images/about-page.png)
+
+![Project image](./images/project-page.png)
+
 ## Author Name
 | Ivy Murithi | ivymurithi@gmail.com |
 
